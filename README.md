@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2559146a-2438-4f28-a548-83786ff85ef2/deploy-status)](https://app.netlify.com/sites/web-lab-notes-hakyimlab/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7133b7c3-0703-4aef-a249-2f96ade817ec/deploy-status)](https://app.netlify.com/sites/cocky-mirzakhani-e469d0/deploys)
 
 ## Lab notes in Rmarkdown
 

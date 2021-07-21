@@ -9,13 +9,13 @@ Expression and splicing prediction models with LD reference data are available i
 
 Files:
 
-    mashr_eqtl.tar: PrediXcan's and S-PrediXcan's support on expression
-    mashr_sqtl.tar: PrediXcan's and S-PrediXcan's support on splicing
-    gtex_v8_expression_mashr_snp_smultixcan_covariance.txt.gz: S-MultiXcan expression's LD reference
-    gtex_v8_splicing_mashr_snp_smultixcan_covariance.txt.gz: S-MultiXcan splicing's LD reference
+- [mashr_eqtl.tar](https://zenodo.org/record/3518299/files/mashr_eqtl.tar?download=1): PrediXcan's and S-PrediXcan's support on expression
+- [mashr_sqtl.tar](https://zenodo.org/record/3518299/files/mashr_sqtl.tar?download=1): PrediXcan's and S-PrediXcan's support on splicing
+- [gtex_v8_expression_mashr_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3518299/files/gtex_v8_expression_mashr_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan expression's LD reference
+- [gtex_v8_splicing_mashr_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3518299/files/gtex_v8_splicing_mashr_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan splicing's LD reference
 
 
-Warning: these models are based on fine-mapped variants that may occasionally be absent in a tipical GWAS, and frequently absent in older GWAS. We have tools to address this, presented here. A tutorial is available here.
+**Warning:** these models are based on fine-mapped variants that may occasionally be absent in a tipical GWAS, and frequently absent in older GWAS. We have tools to address this, presented [here](https://github.com/hakyimlab/MetaXcan/wiki/Best-practices-for-integrating-GWAS-and-GTEX-v8-transcriptome-prediction-models). A tutorial is available [here](https://github.com/hakyimlab/MetaXcan/wiki/Tutorial:-GTEx-v8-MASH-models-integration-with-a-Coronary-Artery-Disease-GWAS).
 
 Acknowledging these models: If you use these models in your research, please cite:
 

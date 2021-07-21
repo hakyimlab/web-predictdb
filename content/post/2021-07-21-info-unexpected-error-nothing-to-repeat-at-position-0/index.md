@@ -10,14 +10,13 @@ tags:
 ---
 
 ## Possible explanation
-This error happens when using the Multixcan tool, it usually happens when the tool cant find files in the Metaxcan folder you provided. Thus halting the process of meta analyzing the results. The most probable cause of this error are;
-  1. Providing a wrong path in the **--metaxcan_folder**
-  2. Providing a wrong pattern in **--models_name_pattern** which results into zero files being captured
-  3. Providing a wrong pattern in **--metaxcan_file_name_parse_pattern** which results into zero files being matched hence no file to analyze
-  4. Not providing your pattern in quotes or placing the wild cards in wrong positions
+This error happens when the data bases cannot be loaded into the tool and the main cause might be;
+  1. Not providing the correct path to the models folder 
+  2. providing the wrong pattern to match the models in the directory
 
 ## Possible solution
-- Ensure your **--metaxcan_folder** path is correct
-- Ensure you provide yor patterns correctly i.e in the example below the first filter selects all the files that start with **_PGZ-SCZ_Brain__** and the second filter extracts the trait from the name.
-    >--metaxcan_filter "PGZ-SCZ_Brain_(.*).csv" \
-     --metaxcan_file_name_parse_pattern "(.*)_Brain_(.*).csv"
+- Ensure you provide the correct path to **--models_folder** argument
+- Ensure the patterns are provided correctly. In the example below only models which start with **_en\_Brain\__** will be selected. 
+    > --models_name_pattern "en_(.*).db" \
+    --models_name_filter "en_Brain_(.*).db"
+    

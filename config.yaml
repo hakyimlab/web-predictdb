@@ -17,7 +17,7 @@ outputs:
 # some menu items were added via the `menu` option in YAML in posts
 menu:
   header:
-    - name: Download
+    - name: Downloads
       url: "/categories/Downloads/"
       weight: 20
     - name: FAQ

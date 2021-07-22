@@ -17,8 +17,18 @@ outputs:
 # some menu items were added via the `menu` option in YAML in posts
 menu:
   header:
+    - name: Download
+      url: "/categories/Downloads/"
+      weight: 20
+    - name: FAQ
+      url: "/categories/FAQ/"
+      weight: 20
+    - name: News
+      url: "/categories/News/"
+      weight: 30
     - name: Search
       url: "#"
+      weight: 40
       identifier: menu-search
   footer:
     - name: Contact

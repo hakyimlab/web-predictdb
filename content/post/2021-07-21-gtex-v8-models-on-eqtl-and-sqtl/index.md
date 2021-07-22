@@ -1,5 +1,13 @@
-# GTEx v8 models on eQTL and sQTL
-
+---
+title: GTEx v8 models on eQTL and sQTL
+author: PredictDB Team
+date: '2021-07-21'
+slug: gtex-v8-models-on-eqtl-and-sqtl
+categories:
+  - Downloads
+  - Models
+tags: []
+---
 We have produced different families of prediction models for sQTL and eQTL, using several prediction strategies, on GTEx v8 release data.
 
 We recommend MASHR-based models below. Elastic Net-based are a safe, robust alternative with decreased power.

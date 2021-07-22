@@ -5,7 +5,7 @@ body {
   line-height: 1.5em;
   overflow-x: hidden;
 }
-body, .side, .menu { background:  #dddddd;} /* general background color */
+body, .side, .menu { background:  #dddddd;} /* EDIT HKI general background color */
 main, .menu ul, .footer, .single section, .post-nav {
   max-width: 800px;
   margin: 0 auto 0;
@@ -33,15 +33,16 @@ main {
   margin-top: 2em;
   padding: 1em;
   box-shadow: 0 0 8px #ccc;
-  background: #eeeeee; /* article background color */
+  background: #eeeeee; /* EDIT HKI article background color */
 }
 .post-card { margin-top: 1em; }
 
 /* header and footer areas */
 .menu { box-shadow: 0px 10px 10px -5px rgba(0,0,0,0.1); }
 .menu {
-  background: #155F83; /* header background color 155F83 is UChicago's blue*/
+  background: #155F83; /* EDIT HKI header background color 155F83 is UChicago's blue*/
 }
+.menu {font-size:  150%;}
 .sticky-top {
   position: sticky;
   top: 0;
@@ -49,7 +50,7 @@ main {
 }
 .menu li, .terms li, .footer li { display: inline-block; }
 .article-meta { background: #f8f8f8; }
-footer { background: #155F83; } /* footer background color*/
+footer { background: #155F83; } /* EIDT HKI footer background color*/
 .menu ul {
   padding: 1em 0 1em;
   display: flex;
@@ -60,9 +61,9 @@ footer { background: #155F83; } /* footer background color*/
   border-radius: 5px;
 }
 .menu a, .footer a { margin: 1px; }
-.menu a, .pagination a, .article-meta a { color: #fff; } /* navigation menu font color*/
+.menu a, .pagination a, .article-meta a { color: #fff; background-color: #155F83 } /* EDIT HKI navigation menu font color, also category/tag color */
 .menu a:hover, .menu .active, .summary::first-letter, .footer a:hover, .terms a:hover, .bg-number {
-  background: lightslategray;
+  background: lightslategray;  /* EDIT HKI selected menu option color + first letter color */
   color: #fff;
 }
 .menu, .article-meta, .post-nav { text-align: center; }
@@ -199,7 +200,7 @@ h3.side-left { text-align: right; }
   width: 100%;
   background: transparent;
   border: none;
-  border-bottom: 2px solid lightslategray;
+  border-bottom: 2px solid #888888; /* EDIT HKI search border bottom was lightslategray*/
 }
 .search-results b {
   font-weight: normal;

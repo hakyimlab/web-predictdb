@@ -42,7 +42,7 @@ main {
 .menu {
   background: #155F83; /* EDIT HKI header background color 155F83 is UChicago's blue*/
 }
-.menu {font-size:  150%;}
+/* .menu {font-size:  150%;} */
 .sticky-top {
   position: sticky;
   top: 0;

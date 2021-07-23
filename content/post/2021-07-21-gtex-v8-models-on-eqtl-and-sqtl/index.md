@@ -11,7 +11,8 @@ tags: []
 We have produced different families of prediction models for sQTL and eQTL, using several prediction strategies, on GTEx v8 release data.
 
 We recommend MASHR-based models below. Elastic Net-based are a safe, robust alternative with decreased power.
-MASHR-based models
+
+## MASHR-based models
 
 Expression and splicing prediction models with LD reference data are available in this Zenodo repository.
 
@@ -28,6 +29,28 @@ Files:
 Acknowledging these models: If you use these models in your research, please cite:
 
     "Widespread dose-dependent effects of RNA expression and splicing on complex diseases and traits", Barbeira et al, 2019, preprint
+    "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
+    "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
+
+If you use S-MultiXcan, we ask you to cite:
+
+    "Integrating predicted transcriptome from multiple tissues improves association detection", Barbeira et al, 2019, PLOS Genetics
+
+## Elastic Net
+
+Expression and splicing prediction models with LD references data are available in this Zenodo repository.
+
+Files:
+
+- [elastic_net_eqtl.tar](https://zenodo.org/record/3519321/files/elastic_net_eqtl.tar?download=1): PrediXcan's and S-PrediXcan's support on expression
+- [elastic_net_sqtl.tar](https://zenodo.org/record/3519321/files/elastic_net_sqtl.tar?download=1): PrediXcan's and S-PrediXcan's on splicing
+- [gtex_v8_expression_elastic_net_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3519321/files/gtex_v8_expression_elastic_net_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan expression's LD reference
+- [gtex_v8_splicing_elastic_net_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3519321/files/gtex_v8_splicing_elastic_net_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan splicing's LD reference
+
+
+Acknowledging these models : If you use these models in your research, we ask you to cite:
+
+    "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Aguet et al, 2019, preprint
     "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
     "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
 

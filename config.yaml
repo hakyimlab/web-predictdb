@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "PredictDB Data Repository"
+title: "PredictDB"
 theme: "hugo-prose"
 # googleAnalytics: "G-8SL8WKCMYZ"
 disqusShortname: "hakyimlab"

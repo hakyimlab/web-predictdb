@@ -1,6 +1,6 @@
 ---
 title: GTEx V8 Cross Tissue Imputation (UTMOST) Prediction Models
-author: PredictDB team
+author: PredictDB team - uploaded by Yanyu Liang
 date: '2020-09-10'
 slug: gtex-v8-cross-tissue-imputation-utmost-prediction-models
 categories:

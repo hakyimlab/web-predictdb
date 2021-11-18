@@ -15,3 +15,5 @@ tags: []
 - [PsychENCODE expression predictors](/post/2020/07/19/psychencode-brain-expression-models/)
 
 - [BrainXcan brain features predictors](/post/2021/07/22/brainxcan-brain-feature-prediction-models/)
+
+- [More](https://predictdb.org/categories/downloads/)

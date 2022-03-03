@@ -28,7 +28,7 @@ Files:
 
 Acknowledging these models: If you use these models in your research, please cite:
 
-    "Widespread dose-dependent effects of RNA expression and splicing on complex diseases and traits", Barbeira et al, 2019, preprint
+    "Exploiting the GTEx resources to decipher the mechanisms at GWAS loci", Barbeira, Bonazzola, Gamazon, Liang, Park, et al. Genome Biol 22, 49 (2021)
     "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
     "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
 
@@ -50,7 +50,7 @@ Files:
 
 Acknowledging these models : If you use these models in your research, we ask you to cite:
 
-    "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Aguet et al, 2019, preprint
+    "Exploiting the GTEx resources to decipher the mechanisms at GWAS loci", Barbeira, Bonazzola, Gamazon, Liang, Park, et al. Genome Biol 22, 49 (2021)
     "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
     "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
 

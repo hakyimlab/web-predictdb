@@ -1,6 +1,6 @@
 ---
 title: PsychENCODE Brain Expression Models
-author: Sabrina Mi, Michael Gandal
+author: Sabrina Mi
 date: '2020-07-19'
 slug: psychencode-brain-expression-models
 categories:

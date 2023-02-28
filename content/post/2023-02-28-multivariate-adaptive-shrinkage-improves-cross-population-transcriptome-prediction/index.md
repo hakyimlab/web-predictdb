@@ -8,7 +8,7 @@ categories:
 tags: []
 ---
 
-Download data from: https://zenodo.org/record/7551845#.Y_5QTLTMIqs
+Download prediction weights from: https://zenodo.org/record/7551845#.Y_5QTLTMIqs
 
 Preprint from Wheeler lab sharing multi-ancestry prediction models from TOPMED/MESA  https://www.biorxiv.org/content/10.1101/2023.02.09.527747v1
 

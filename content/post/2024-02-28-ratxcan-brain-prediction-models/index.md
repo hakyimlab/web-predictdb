@@ -3,7 +3,9 @@ title: "Ratxcan brain prediction models"
 author: "Haky Im"
 date: "2024-02-28"
 slug: "ratxcan-brain-prediction-models"
-categories: []
+categories:
+  - Downloads
+  - Models
 tags: []
 ---
 

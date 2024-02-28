@@ -13,6 +13,8 @@ See description in Santhanam, Sanchez Roige, et al (2024).
 
 [Download link](https://uchicago.box.com/v/ratxcan-brain-5-regions)
 
+To query the database, checkout this [post](https://predictdb.org/post/2021/07/21/how-do-i-query-the-prediction-model-db/)
+
 
 ## References 
 

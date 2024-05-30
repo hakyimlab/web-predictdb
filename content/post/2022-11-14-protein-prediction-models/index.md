@@ -12,4 +12,4 @@ tags: []
 ARIC protein prediction models in predictdb format can be downloaded from here https://uchicago.box.com/s/3sf4y4gv6c7zam0l5fxicpcd3zji5wzc
 
 See more details here
-https://lab-notes.hakyimlab.org/post/2021/09/08/generating-metaxcan-prediction-model-from-aric-pwas/
+https://lab-notes.hakyimlab.org/post/2021-09-08-generating-metaxcan-prediction-model-from-aric-pwas/

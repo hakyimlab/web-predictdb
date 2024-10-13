@@ -23,6 +23,7 @@ Files:
 - [gtex_v8_expression_mashr_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3518299/files/gtex_v8_expression_mashr_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan expression's LD reference
 - [gtex_v8_splicing_mashr_snp_smultixcan_covariance.txt.gz](https://zenodo.org/record/3518299/files/gtex_v8_splicing_mashr_snp_smultixcan_covariance.txt.gz?download=1): S-MultiXcan splicing's LD reference
 
+> Note: if the download links don't work, use this [link to zenodo](https://zenodo.org/record/3518299/) and find the files listed above and download them directly from the webpage
 
 **Warning:** these models are based on fine-mapped variants that may occasionally be absent in a tipical GWAS, and frequently absent in older GWAS. We have tools to address this, presented [here](https://github.com/hakyimlab/MetaXcan/wiki/Best-practices-for-integrating-GWAS-and-GTEX-v8-transcriptome-prediction-models). A tutorial is available [here](https://github.com/hakyimlab/MetaXcan/wiki/Tutorial:-GTEx-v8-MASH-models-integration-with-a-Coronary-Artery-Disease-GWAS).
 

@@ -13,7 +13,7 @@ tags: []
 
 See description in [CITE scPredixcan PAPER HERE]
 
-Download models here from [Box folder](https://uchicago.app.box.com/folder/289080191619) or from [Zenodo](https://zenodo.org/uploads/13929785)
+Download models here from [Box folder](https://uchicago.box.com/s/wgyt3wqfjezsqwjhndcceky6nivil8kh) or from [Zenodo](https://zenodo.org/uploads/13929785)
 
 ### References
 

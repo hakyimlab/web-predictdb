@@ -2,7 +2,7 @@
 title: scPrediXcan prediction models
 author: Charles Zhou
 date: '2024-10-14'
-slug: scpredixcan-prediction-models
+slug: scPredixcan-prediction-models
 categories:
   - Downloads
   - Models

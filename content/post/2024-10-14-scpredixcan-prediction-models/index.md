@@ -11,7 +11,7 @@ tags: []
 
 ### Single cell based gene expression prediction models (l-ctPred)
 
-See description in [CITE scPredixcan PAPER HERE](https://www.biorxiv.org/content/10.1101/2024.11.11.623049v1)
+See description in [CITE scPredixcan PAPER HERE](https://doi.org/10.1101/2024.11.11.623049)
 
 See github reo in [scPrediXcan github repo](https://github.com/hakyimlab/scPrediXcan)
 
@@ -23,4 +23,4 @@ As scPrediXcan is a newly-developed tool, there may be some bugs or technical im
 
 ### References
 
-[scPredixcan paper here](https://www.biorxiv.org/content/10.1101/2024.11.11.623049v1)
+[scPredixcan paper here](https://doi.org/10.1101/2024.11.11.623049)

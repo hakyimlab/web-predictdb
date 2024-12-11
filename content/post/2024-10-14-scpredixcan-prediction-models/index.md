@@ -15,7 +15,7 @@ See description in [CITE scPredixcan PAPER HERE](https://doi.org/10.1101/2024.11
 
 See github reo in [scPrediXcan github repo](https://github.com/hakyimlab/scPrediXcan)
 
-Download models here from [Box folder](https://uchicago.box.com/s/wgyt3wqfjezsqwjhndcceky6nivil8kh) or from [Zenodo](https://zenodo.org/records/13929785) 
+Download models here from [Box folder](https://uchicago.box.com/s/wgyt3wqfjezsqwjhndcceky6nivil8kh) or from [Zenodo](https://zenodo.org/records/13929785) (for islet cells from T2D dataset) and [Zenodo](https://zenodo.org/records/14346661) (for immune cells from OneK1K dataset). 
 
 
 ### About technical problems
